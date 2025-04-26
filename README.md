@@ -18,6 +18,6 @@
  
  \+ @ branches : personal feature branches
 
- - **Manager** : 이동주
+ - **Manager** : 이동주, 조수영
 
  Pull Request, Issues 적극 활용 권장.
