@@ -4,8 +4,9 @@
 
 # members
  
- Frontend : 오제훈, 조수영, 김병규, 송동현 
- Backend : 이동주
+ - **Frontend** : 오제훈, 조수영, 김병규, 송동현 
+
+ - **Backend** : 이동주
 
 # Main Theme
  
@@ -13,9 +14,10 @@
 
 # Github Managements
 
- 2 Main branches : main, develop
+ 2 Main branches : `main`, `develop`
+ 
  \+ @ branches : personal feature branches
 
- - Manager : 이동주
+ - **Manager** : 이동주
 
  Pull Request, Issues 적극 활용 권장.
